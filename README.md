@@ -4,6 +4,8 @@
 
 A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
+## 注释：可以进index.html页面看效果  看上哪个  在F12 审查元素看class类名  然后去对应的css文件里找源码即可使用
+
 [Demo](http://ianlunn.github.io/Hover)  |
 [Tutorial](http://ianlunn.co.uk/articles/hover-css-tutorial-introduction/)
 
